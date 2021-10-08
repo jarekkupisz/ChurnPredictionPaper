@@ -9,7 +9,7 @@ This repository contains the thesis I wrote for my postgraduate studies at the [
 In the scripts folder, you can find the R code used to generate the experiment and charts from the third chapter. 
 
 ## Download 
-Download here or from the list of files. 
+Download [here](https://github.com/jarekkupisz/ChurnPredictionPaper/raw/main/Client%20Churn%20Prediction%20with%20Data%20Mining.%20Literature%20Overview%20and%20SaaS%20B2B%20Case%20Study%20Jarek%20Kupisz%20gh%20ver.pdf) or from the list of files. 
 
 ## Official Abstract
 Client churn prediction became an increasingly important classification problem, as an offering-related competitive advantage is yielding its place to Customer Relationship Management for securing long-term growth. This study presents recent findings of churn prediction literature ordered by model creation phases and their application in SaaS B2B experiment. Results indicate that ways of data preprocessing devised by cited scholars offer improvement of up to 17% over standard approaches, validate novel Maximum Profit criterion (outputting direct profits from a model) as an evaluation metric, and highlight Logit Leaf Model featuring enchanted interpretability as a viable algorithm for churn prediction.
